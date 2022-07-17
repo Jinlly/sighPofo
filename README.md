@@ -17,4 +17,5 @@ You may also see any lint errors in the console.
 ### React
 make sure U have react installed before U do npm start
 
+![p4](https://github.com/Jinlly/sighPofo/blob/fc5d8c911b0a17d3254b06010276c085a4df3b30/src/assets/images/p4.PNG)
 
