@@ -50,7 +50,7 @@ function Contact() {
 			<div className="center">
 				<h2 className="page-header">Contact Me</h2>
 			</div>
-			<div>
+			<div align="center">
 				<form id="contact-form">
 					<div>
 						<label htmlFor="Name">Name:</label>
@@ -87,7 +87,7 @@ function Contact() {
 							<p className="error-text">{errorMessage}</p>
 						</div>
 					)}
-					<button type="submit">Submit</button>
+					<button align="center">Submit</button>
 				</form>
 			</div>
 		</section>
